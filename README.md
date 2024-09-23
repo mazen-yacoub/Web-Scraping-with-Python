@@ -1,6 +1,9 @@
 # Web-Scraping-with-Python
 Web Scraping Real Estate Data with Python library "BeautifulSoup"
 
+### URL link of first page in the Website is :
+ https://www.century21.com/real-estate/chicago-il/LCILCHICAGO/?beds=1&baths=1&minsqft=200
+ 
 ## introduction
 This project demonstrates how to scrape real estate data from a multi-page listing website using Python, BeautifulSoup, and Pandas. The data is collected from a property listings website covering 139 pages. Each page provides detailed information about various properties in Chicago, such as the number of bedrooms, bathrooms, square footage, and listing prices.
 -----------
